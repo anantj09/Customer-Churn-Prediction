@@ -5,6 +5,6 @@ streamlit
 # nvidia-cudnn-cu12>=8.9.4.25
 # nvidia-cuda-runtime-cu12>=12.2.0
 # nvidia-cublas-cu12>=12.2.0
-tensorflow==2.15.0
+tensorflow
 tensorboard
 scikit-learn
